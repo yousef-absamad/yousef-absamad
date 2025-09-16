@@ -11,128 +11,61 @@
 
 <hr>
 
-<p align="center" style="margin: 20px 0;">
-  <style>
-    .social-badges {
-      display: flex;
-      justify-content: center;
-      gap: 10px;
-      flex-wrap: wrap;
-    }
-    .social-badges a {
-      transition: transform 0.3s ease, opacity 0.3s ease;
-    }
-    .social-badges a:hover {
-      transform: translateY(-3px);
-      opacity: 0.9;
-    }
-    .social-badges img {
-      height: 30px;
-      border-radius: 4px;
-    }
-    @media (max-width: 600px) {
-      .social-badges {
-        gap: 8px;
-      }
-      .social-badges img {
-        height: 25px;
-      }
-    }
-  </style>
-  <div class="social-badges">
-    <a href="https://www.linkedin.com/in/yousef-absamad/" target="_blank" aria-label="Yousef Absamad's LinkedIn Profile">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.youtube.com/@YousefAbsamad" target="_blank" aria-label="Yousef Absamad's YouTube Channel">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-    </a>
-    <a href="https://leetcode.com/u/yousef-absamad/" target="_blank" aria-label="Yousef Absamad's LeetCode Profile">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
-    </a>
-    <a href="https://codeforces.com/profile/3bd_elsamad" target="_blank" aria-label="Yousef Absamad's Codeforces Profile">
-      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces Badge"/>
-    </a>
-    <a href="mailto:yousef.absamad@gmail.com" target="_blank" aria-label="Email Yousef Absamad">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-    </a>
-  </div>
+<h3 align="center">🌐 Connect with me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yousef-absamad/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@YousefAbsamad" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
+  <a href="https://leetcode.com/u/yousef-absamad/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+  <a href="https://codeforces.com/profile/3bd_elsamad" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Badge"/>
+  </a>
+  <a href="mailto:yousef.absamad@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yousef-absamad&label=Profile%20views&color=0e75b6&style=flat" alt="yousef-absamad" height="30"/>
 </p>
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Languages and Tools</h3>
 
-###
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="flutter logo" />
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="dart logo" />
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" />
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="50" alt="firebase logo" />
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo" />
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo" />
+  <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo" />
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
+---
 
-###
+<h3 align="center">📊 GitHub Stats</h3>
 
-<div style="margin: 30px 0;">
-  <style>
-    .stats-container {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-      gap: 20px;
-      justify-items: center;
-      padding: 20px;
-      max-width: 1200px;
-      margin: 0 auto;
-    }
-    .stats-card {
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-      border-radius: 8px;
-      overflow: hidden;
-    }
-    .stats-card:hover {
-      transform: translateY(-5px);
-      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
-    }
-    .stats-card img {
-      width: 100%;
-      height: auto;
-      display: block;
-    }
-    @media (max-width: 600px) {
-      .stats-container {
-        grid-template-columns: 1fr;
-        padding: 10px;
-      }
-      .stats-card {
-        max-width: 90%;
-      }
-    }
-  </style>
-  <div class="stats-container">
-    <div class="stats-card" aria-label="Yousef Absamad's Top Programming Languages">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yousef-absamad&show_icons=true&locale=en&layout=compact" alt="Yousef Absamad's Top Programming Languages" />
-    </div>
-    <div class="stats-card" aria-label="Yousef Absamad's GitHub Stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=yousef-absamad&show_icons=true&locale=en" alt="Yousef Absamad's GitHub Stats" />
-    </div>
-    <div class="stats-card" aria-label="Yousef Absamad's GitHub Streak Stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousef-absamad&" alt="Yousef Absamad's GitHub Streak Stats" />
-    </div>
-  </div>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yousef-absamad&show_icons=true&locale=en&layout=compact" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yousef-absamad&show_icons=true&locale=en" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousef-absamad&" height="150" alt="GitHub Streak Stats" />
+</p>
+
+---
 
 <h2 align="center">🐍 My Contributions Snake</h2>
 
