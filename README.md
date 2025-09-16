@@ -87,7 +87,7 @@ Always curious and growth-oriented, I continuously explore new app concepts and 
 
 ---
 
-<h2 align="center">🐍 My Contributions Snake</h2>
+<h2 align="left">🐍 My Contributions Snake</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/yousef-absamad/yousef-absamad/output/dist/snake.svg" alt="Snake animation" />
 </p>
