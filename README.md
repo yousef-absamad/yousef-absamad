@@ -134,5 +134,8 @@
   </div>
 </div>
 
+<h2 align="center">🐍 My Contributions Snake</h2>
 
-<img src="https://raw.githubusercontent.com/yousef-absamad/yousef-absamad/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yousef-absamad/yousef-absamad/output/dist/snake.svg" alt="Snake animation" />
+</p>
