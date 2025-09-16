@@ -1,12 +1,12 @@
 name: Generate Snake Animation
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+  schedule: 
+    - cron: "0 0 * * *"   # يرن كل يوم الساعة 00:00 UTC
+  workflow_dispatch:       # تشغيل يدوي
 
 permissions:
-  contents: write   
+  contents: write   # عشان يقدر يعمل push على الفرع
 
 jobs:
   build:
@@ -20,11 +20,12 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: yousef-absamad
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg
 
-      - name: Commit and push changes
+      - name: Push Snake to the output branch
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output   
+          branch: output
           force: true
