@@ -62,7 +62,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yousef-absamad&show_icons=true&locale=en&layout=compact" height="150" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=yousef-absamad&show_icons=true&locale=en" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousef-absamad&" height="150" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=yousef-absamad&theme=tokyonight" alt="GitHub Streak Stats" height="150"/>
 </p>
 
 ---
