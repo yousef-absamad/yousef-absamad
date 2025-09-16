@@ -1,4 +1,6 @@
 <hr>
+<h2 align="center">👋 Welcome to my GitHub Profile 👋</h2>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=6AA6F8&size=25&center=true&vCenter=true&width=700&height=100&lines=Hello,+I'm+Yousef+Abdel+Samad;Fresh+Computer+Science+Graduate;Flutter+Developer;Always+Learning+and+Improving">
@@ -11,7 +13,7 @@
 
 <hr>
 
-<h3 align="center">🌐 Connect with me</h3>
+<h3 align="left">🌐 Connect with me</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yousef-absamad/" target="_blank">
