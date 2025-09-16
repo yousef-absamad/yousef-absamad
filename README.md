@@ -37,7 +37,7 @@
 
 ---
 
-<h3 align="center">🛠 Languages and Tools</h3>
+<h3 align="left">🛠 Languages and Tools</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="flutter logo" />
@@ -62,7 +62,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yousef-absamad&show_icons=true&locale=en&layout=compact" height="150" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=yousef-absamad&show_icons=true&locale=en" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=yousef-absamad&theme=tokyonight" alt="GitHub Streak Stats" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=yousef-absamad&theme=default" alt="GitHub Streak Stats" height="150"/>
 </p>
 
 ---
