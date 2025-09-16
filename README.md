@@ -3,18 +3,20 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=6AA6F8&size=25&center=true&vCenter=true&width=700&height=100&lines=Hello,+I'm+Yousef+Abdel+Samad;Fresh+Computer+Science+Graduate;Flutter+Developer;Always+Learning+and+Improving">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=25&center=true&vCenter=true&width=700&height=100&lines=Hello,+I'm+Yousef+Abdel+Samad;Fresh+Computer+Science+Graduate;Flutter+Developer;Always+Learning+and+Improving&color=00BFFF&color2=1E90FF&color3=00FFFF&color4=7DF9FF">
   </a>
 </p>
 
-<div align="center">
-  <img height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnU5Z2FsYWs3eTBlZTN2YmgybXk4aHMzejVnejJ1azU0ZWE2bGhtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif"  />
-</div>
-
 <hr>
 
-<h3 align="left">🌐 Connect with me</h3>
+## 👨‍💻 About Me
+I’m a passionate **Mobile App Developer** with a strong focus on creating practical and user-friendly applications.  
+I love transforming ideas into mobile solutions—whether it’s solving real-world problems, supporting business needs, or building opportunities for monetization.  
+Always curious and growth-oriented, I continuously explore new app concepts and enhance my skills to deliver impactful digital experiences.
 
+---
+
+## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/yousef-absamad/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -33,14 +35,15 @@
   </a>
 </p>
 
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yousef-absamad&label=Profile%20views&color=0e75b6&style=flat" alt="yousef-absamad" height="30"/>
 </p>
 
 ---
 
-<h3 align="left">🛠 Languages and Tools</h3>
-
+## 🛠 Languages and Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="flutter logo" />
   <img width="20"/>
@@ -59,8 +62,7 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
-
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yousef-absamad&show_icons=true&locale=en&layout=compact" height="150" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=yousef-absamad&show_icons=true&locale=en" height="150" alt="GitHub Stats" />
@@ -69,10 +71,23 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=yousef-absamad&theme=default" height="150" alt="GitHub Streak Stats" />
 </p>
+
+---
+
+## 🚀 Featured Projects
+- [📱 Food Lens App](https://github.com/yousef-absamad/Food_Lens) – AI-powered Flutter app that analyzes meal images and provides nutritional insights.
+- [📰 News App](https://github.com/yousef-absamad/News-App) – Flutter app with multi-language support and offline mode.
+- [🎬 Movie App](https://github.com/yousef-absamad/Flutter_Movies_App) – Built with Clean Architecture and Bloc.
+- [☁️ Weather App](https://github.com/yousef-absamad/Flutter_Weather_App) – Provides real-time weather data with AI suggestions.
+
+---
+
+## 📈 Contribution Graph
+[![Yousef's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yousef-absamad&theme=react-dark&height=200)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 
 <h2 align="center">🐍 My Contributions Snake</h2>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/yousef-absamad/yousef-absamad/output/dist/snake.svg" alt="Snake animation" />
 </p>
