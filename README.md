@@ -57,14 +57,16 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yousef-absamad&show_icons=true&locale=en&layout=compact" height="150" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=yousef-absamad&show_icons=true&locale=en" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=yousef-absamad&theme=default" alt="GitHub Streak Stats" height="150"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=yousef-absamad&theme=default" height="150" alt="GitHub Streak Stats" />
+</p>
 ---
 
 <h2 align="center">🐍 My Contributions Snake</h2>
